@@ -1,10 +1,10 @@
 ## Olá pessoal 👋
-Eu sou o Altino
+### Eu sou o Altino
 
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/-->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" height="34"/>
+<!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="34" height="34"/-->
           
 <!--
 **altsheu/altsheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
