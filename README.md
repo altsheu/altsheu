@@ -11,6 +11,8 @@
 ### Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="34" height="34"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="34" height="34"/>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=altsheu&show_icons=true"></a>
 <!-- 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
@@ -35,5 +37,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/altsheu">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altsheu&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=altsheu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=altsheu&theme=radical&show_icons=true"></a>
 </div>
 -->
